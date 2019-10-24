@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/trigapplications/static/css/main.b100e6da.chunk.css",
+    "main.js": "/trigapplications/static/js/main.5176e4a3.chunk.js",
+    "main.js.map": "/trigapplications/static/js/main.5176e4a3.chunk.js.map",
+    "runtime~main.js": "/trigapplications/static/js/runtime~main.8645f08c.js",
+    "runtime~main.js.map": "/trigapplications/static/js/runtime~main.8645f08c.js.map",
+    "static/css/2.b404bbd9.chunk.css": "/trigapplications/static/css/2.b404bbd9.chunk.css",
+    "static/js/2.46300c3b.chunk.js": "/trigapplications/static/js/2.46300c3b.chunk.js",
+    "static/js/2.46300c3b.chunk.js.map": "/trigapplications/static/js/2.46300c3b.chunk.js.map",
+    "index.html": "/trigapplications/index.html",
+    "precache-manifest.829d787b16d8d92643e1cfdf233a5b8d.js": "/trigapplications/precache-manifest.829d787b16d8d92643e1cfdf233a5b8d.js",
+    "service-worker.js": "/trigapplications/service-worker.js",
+    "static/css/2.b404bbd9.chunk.css.map": "/trigapplications/static/css/2.b404bbd9.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/trigapplications/static/css/main.b100e6da.chunk.css.map",
+    "static/media/Images-01.png": "/trigapplications/static/media/Images-01.304678af.png",
+    "static/media/Images-02.png": "/trigapplications/static/media/Images-02.1456bfff.png",
+    "static/media/Images-03.png": "/trigapplications/static/media/Images-03.fcf6455b.png",
+    "static/media/Images-04.png": "/trigapplications/static/media/Images-04.447bd0aa.png",
+    "static/media/Images-05.png": "/trigapplications/static/media/Images-05.c9f20e36.png",
+    "static/media/Images-08.png": "/trigapplications/static/media/Images-08.7bb473f3.png",
+    "static/media/Images-09.png": "/trigapplications/static/media/Images-09.e5fde7dd.png",
+    "static/media/katex.min.css": "/trigapplications/static/media/KaTeX_Typewriter-Regular.6cc31ea5.woff2"
+  }
+}
