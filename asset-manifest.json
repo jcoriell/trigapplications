@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/trigapplications/static/css/main.b100e6da.chunk.css",
-    "main.js": "/trigapplications/static/js/main.5176e4a3.chunk.js",
-    "main.js.map": "/trigapplications/static/js/main.5176e4a3.chunk.js.map",
+    "main.js": "/trigapplications/static/js/main.0cb809e1.chunk.js",
+    "main.js.map": "/trigapplications/static/js/main.0cb809e1.chunk.js.map",
     "runtime~main.js": "/trigapplications/static/js/runtime~main.8645f08c.js",
     "runtime~main.js.map": "/trigapplications/static/js/runtime~main.8645f08c.js.map",
     "static/css/2.b404bbd9.chunk.css": "/trigapplications/static/css/2.b404bbd9.chunk.css",
     "static/js/2.46300c3b.chunk.js": "/trigapplications/static/js/2.46300c3b.chunk.js",
     "static/js/2.46300c3b.chunk.js.map": "/trigapplications/static/js/2.46300c3b.chunk.js.map",
     "index.html": "/trigapplications/index.html",
-    "precache-manifest.829d787b16d8d92643e1cfdf233a5b8d.js": "/trigapplications/precache-manifest.829d787b16d8d92643e1cfdf233a5b8d.js",
+    "precache-manifest.6efe30b0481e954bd2c8d177945d3c36.js": "/trigapplications/precache-manifest.6efe30b0481e954bd2c8d177945d3c36.js",
     "service-worker.js": "/trigapplications/service-worker.js",
     "static/css/2.b404bbd9.chunk.css.map": "/trigapplications/static/css/2.b404bbd9.chunk.css.map",
     "static/css/main.b100e6da.chunk.css.map": "/trigapplications/static/css/main.b100e6da.chunk.css.map",
